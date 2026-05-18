@@ -656,14 +656,7 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-          {
-            "site": "mersobahis",
-            "sort": "1"
-          },
-          {
-            "site": "amgbahis",
-            "sort": "2"
-          }
+
         ]
       },
       {
