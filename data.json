@@ -276,12 +276,12 @@
       {
         "url": "https://tinyurl.com/ycdzz8zy",
         "desc": [
-          "2026₺ DENEME BONUSU"
+          "5000₺ DENEME BONUSU"
         ],
         "site": "tipobet",
         "sort": null,
         "color": "#0f853d",
-        "miktar": "₺2026",
+        "miktar": "₺5000",
         "elmas": "favori-site.webp",
         "promo_code_yok": "",
         "slider_img": ""
@@ -301,12 +301,12 @@
       {
         "url": "https://shrtly.to/8VKg",
         "desc": [
-          "5000₺ DENEME BONUSU"
+          "3333₺ DENEME BONUSU"
         ],
         "site": "onwin",
         "sort": null,
         "color": "#b910a1",
-        "miktar": "₺5000",
+        "miktar": "₺3333",
         "elmas": "ayin-sitesi.webp",
         "promo_code_yok": "",
         "slider_img": ""
@@ -567,6 +567,19 @@
         "miktar": "₺2.000",
         "promo_code_yok": "YENİ ÜYELERE ÖZEL 2.000 TL DENEME BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://dodoref1.com/Nid-",
+        "desc": [
+          "2500TL DENEME BONUSU"
+        ],
+        "site": "dodobet",
+        "sort": null,
+        "color": "#2587f4",
+        "miktar": "₺2500",
+        "elmas": "editorun-secimi.webp",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -656,7 +669,18 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-
+          {
+            "site": "tipobet",
+            "sort": "1"
+          },
+          {
+            "site": "onwin",
+            "sort": "2"
+          },
+          {
+            "site": "dodobet",
+            "sort": "3"
+          }
         ]
       },
       {
